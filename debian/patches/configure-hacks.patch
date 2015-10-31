@@ -1,0 +1,17 @@
+--- a/source/config.tests/bootstrap_qt/qmake.pro
++++ b/source/config.tests/bootstrap_qt/qmake.pro
+@@ -1,5 +1,4 @@
+ message(QT_PREFIX=$$[QT_INSTALL_PREFIX])
+ message(QT_LIBS=$$[QT_INSTALL_LIBS])
+ message(QT_BINS=$$[QT_INSTALL_BINS])
+-message(QT_INCS=$$[QT_INSTALL_HEADERS])
+-contains(QT_CONFIG,embedded):error(Cannot use Qt Embedded as the system Qt!)
++message(QT_INCS=$$[QT_INSTALL_HEADERS])
+\ No newline at end of file
+--- a/source/config.tests/system_qt/qmake.pro
++++ b/source/config.tests/system_qt/qmake.pro
+@@ -2,4 +2,3 @@
+ TARGET=system_qt
+ SOURCES=main.cpp
+ QT+=sql svg
+-contains(QT_CONFIG,embedded):error(Cannot use Qt Embedded as the system Qt!)

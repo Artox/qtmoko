@@ -1,123 +1,123 @@
 [submodule "qtmoko-apps"]
-	path = qtmoko-apps
+	path = source/qtmoko-apps
 	url = git://github.com/radekp/qtmoko-apps.git
 [submodule "qtopiacore/qt"]
-	path = qtopiacore/qt
+	path = source/qtopiacore/qt
 	url = git://github.com/radekp/qt.git
 [submodule "src/3rdparty/applications/nerongps"]
-	path = src/3rdparty/applications/nerongps
+	path = source/src/3rdparty/applications/nerongps
 	url = git://github.com/radekp/NeronGPS.git
 [submodule "src/3rdparty/applications/arora"]
-	path = src/3rdparty/applications/arora
+	path = source/src/3rdparty/applications/arora
 	url = git://github.com/radekp/arora-neo.git
 [submodule "src/3rdparty/applications/omhacks"]
-	path = src/3rdparty/applications/omhacks
+	path = source/src/3rdparty/applications/omhacks
 	url = git://github.com/radekp/omhacks.git
 [submodule "src/3rdparty/applications/gta02-gsm-bt-fix"]
-	path = src/3rdparty/applications/gta02-gsm-bt-fix
+	path = source/src/3rdparty/applications/gta02-gsm-bt-fix
 	url = git://github.com/radekp/gta02-gsm-bt-fix.git
 [submodule "src/3rdparty/applications/gta02-agps"]
-	path = src/3rdparty/applications/gta02-agps
+	path = source/src/3rdparty/applications/gta02-agps
 	url = git://github.com/radekp/gta02-agps.git
 [submodule "src/3rdparty/applications/raptor"]
-	path = src/3rdparty/applications/raptor
+	path = source/src/3rdparty/applications/raptor
 	url = git://github.com/radekp/raptor.git
 [submodule "src/3rdparty/applications/qtpedometer"]
-	path = src/3rdparty/applications/qtpedometer
+	path = source/src/3rdparty/applications/qtpedometer
 	url = git://github.com/radekp/qtpedometer.git
 [submodule "src/3rdparty/applications/qtopiagps"]
-	path = src/3rdparty/applications/qtopiagps
+	path = source/src/3rdparty/applications/qtopiagps
 	url = git://github.com/radekp/qtopiagps.git
 [submodule "src/3rdparty/applications/qtbackup"]
-	path = src/3rdparty/applications/qtbackup
+	path = source/src/3rdparty/applications/qtbackup
 	url = git://github.com/radekp/qtbackup.git
 [submodule "src/3rdparty/applications/qmokoplayer"]
-	path = src/3rdparty/applications/qmokoplayer
+	path = source/src/3rdparty/applications/qmokoplayer
 	url = git://github.com/radekp/qmokoplayer.git
 [submodule "src/3rdparty/applications/spectemu"]
-	path = src/3rdparty/applications/spectemu
+	path = source/src/3rdparty/applications/spectemu
 	url = git://github.com/radekp/spectemu.git
 [submodule "src/3rdparty/applications/qdictopia"]
-	path = src/3rdparty/applications/qdictopia
+	path = source/src/3rdparty/applications/qdictopia
 	url = git://github.com/radekp/qdictopia.git
 [submodule "src/3rdparty/applications/phonetiq"]
-	path = src/3rdparty/applications/phonetiq
+	path = source/src/3rdparty/applications/phonetiq
 	url = git://github.com/radekp/phonetiq.git
 [submodule "src/3rdparty/applications/qgcide"]
-	path = src/3rdparty/applications/qgcide
+	path = source/src/3rdparty/applications/qgcide
 	url = git://github.com/radekp/qgcide.git
 [submodule "src/3rdparty/applications/qneoroid"]
-	path = src/3rdparty/applications/qneoroid
+	path = source/src/3rdparty/applications/qneoroid
 	url = git://github.com/radekp/qneoroid.git
 [submodule "src/3rdparty/applications/eyepiece"]
-	path = src/3rdparty/applications/eyepiece
+	path = source/src/3rdparty/applications/eyepiece
 	url = git://github.com/radekp/eyepiece.git
 [submodule "src/3rdparty/applications/gqsync"]
-	path = src/3rdparty/applications/gqsync
+	path = source/src/3rdparty/applications/gqsync
 	url = git://github.com/radekp/gqsync.git
 [submodule "src/3rdparty/games/greensudoku"]
-	path = src/3rdparty/games/greensudoku
+	path = source/src/3rdparty/games/greensudoku
 	url = git://github.com/radekp/greensudoku.git
 [submodule "src/3rdparty/plugins/inputmethods/keyboard-russian-abc"]
-	path = src/3rdparty/plugins/inputmethods/keyboard-russian-abc
+	path = source/src/3rdparty/plugins/inputmethods/keyboard-russian-abc
 	url = git://github.com/radekp/keyboard-russian-abc.git
 [submodule "src/3rdparty/plugins/inputmethods/keyboard-skin-silver"]
-	path = src/3rdparty/plugins/inputmethods/keyboard-skin-silver
+	path = source/src/3rdparty/plugins/inputmethods/keyboard-skin-silver
 	url = git://github.com/radekp/keyboard-skin-silver.git
 [submodule "src/3rdparty/applications/keypebble"]
-	path = src/3rdparty/applications/keypebble
+	path = source/src/3rdparty/applications/keypebble
 	url = git://github.com/radekp/keypebble.git
 [submodule "src/3rdparty/applications/mqutim"]
-	path = src/3rdparty/applications/mqutim
+	path = source/src/3rdparty/applications/mqutim
 	url = git://github.com/radekp/mqutim.git
 [submodule "src/3rdparty/applications/noxchat"]
-	path = src/3rdparty/applications/noxchat
+	path = source/src/3rdparty/applications/noxchat
 	url = git://github.com/radekp/noxchat.git
 [submodule "src/3rdparty/applications/qalsamixer"]
-	path = src/3rdparty/applications/qalsamixer
+	path = source/src/3rdparty/applications/qalsamixer
 	url = git://github.com/radekp/qalsamixer.git
 [submodule "src/3rdparty/applications/qgoogletranslate"]
-	path = src/3rdparty/applications/qgoogletranslate
+	path = source/src/3rdparty/applications/qgoogletranslate
 	url = git://github.com/radekp/qgoogletranslate.git
 [submodule "src/3rdparty/games/qsolitaire"]
-	path = src/3rdparty/games/qsolitaire
+	path = source/src/3rdparty/games/qsolitaire
 	url = git://github.com/radekp/qsolitaire.git
 [submodule "src/3rdparty/applications/qweather"]
-	path = src/3rdparty/applications/qweather
+	path = source/src/3rdparty/applications/qweather
 	url = git://github.com/radekp/qweather.git
 [submodule "src/3rdparty/applications/shopper"]
-	path = src/3rdparty/applications/shopper
+	path = source/src/3rdparty/applications/shopper
 	url = git://github.com/radekp/shopper.git
 [submodule "src/3rdparty/applications/melodiq"]
-	path = src/3rdparty/applications/melodiq
+	path = source/src/3rdparty/applications/melodiq
 	url = git://github.com/radekp/melodiq.git
 [submodule "src/3rdparty/games/chess"]
-	path = src/3rdparty/games/chess
+	path = source/src/3rdparty/games/chess
 	url = git://github.com/radekp/qtmoko-chess.git
 [submodule "src/3rdparty/games/qphysics"]
-	path = src/3rdparty/games/qphysics
+	path = source/src/3rdparty/games/qphysics
 	url = git://github.com/radekp/qphysics.git
 [submodule "src/libraries/qfso/specs"]
-	path = src/libraries/qfso/specs
+	path = source/src/libraries/qfso/specs
 	url = git://github.com/radekp/fso-specs.git
 [submodule "src/tools/indent"]
-	path = src/tools/indent
+	path = source/src/tools/indent
 	url = git://github.com/radekp/indent.git
 [submodule "src/3rdparty/games/qtpairs"]
-	path = src/3rdparty/games/qtpairs
+	path = source/src/3rdparty/games/qtpairs
 	url = git://github.com/radekp/qtpairs.git
 [submodule "src/3rdparty/applications/FBReader"]
-	path = src/3rdparty/applications/FBReader
+	path = source/src/3rdparty/applications/FBReader
 	url = git://github.com/radekp/FBReader.git
 [submodule "src/3rdparty/applications/gta04-gsm-voice-routing"]
-	path = src/3rdparty/applications/gta04-gsm-voice-routing
+	path = source/src/3rdparty/applications/gta04-gsm-voice-routing
 	url = git://github.com/radekp/gta04-gsm-voice-routing.git
 [submodule "src/3rdparty/games/qfreecell"]
-	path = src/3rdparty/games/qfreecell
+	path = source/src/3rdparty/games/qfreecell
 	url = git://github.com/radekp/qfreecell.git
 [submodule "src/3rdparty/applications/yberbrowser"]
-	path = src/3rdparty/applications/yberbrowser
+	path = source/src/3rdparty/applications/yberbrowser
 	url = git://github.com/radekp/yberbrowser.git
 [submodule "src/3rdparty/applications/minitube"]
-	path = src/3rdparty/applications/minitube
+	path = source/src/3rdparty/applications/minitube
 	url = git://github.com/radekp/minitube.git

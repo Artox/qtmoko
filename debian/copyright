@@ -1,27 +1,30 @@
-This work was packaged for Debian by:
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: qtmoko
+Source: https://github.com/radekp/qtmoko
 
-    Radek Polak <psonek2@seznam.cz> on Sat, 05 Feb 2011 20:23:56 +0100
+Files: *
+Copyright: 2009 Trolltech ASA. <info@qtextended.org>
+           2011 Radek Polak <psonek2@seznam.cz>
+License: GPL-2.0+
 
-It was downloaded from:
+Files: debian/*
+Copyright: 2011 Radek Polak <psonek2@seznam.cz>
+           2015 Josua Mayer <privacy@not.given>
+License: GPL-2.0+
 
-    http://sourceforge.net/projects/qtmoko/files
-
-Upstream Author(s):
-
-    Radek Polak <psonek2@seznam.cz>
-
-Copyright:
-
-    Copyright (C) 2009 Trolltech ASA. <info@qtextended.org>
-    Copyright (C) 2011 Radek Polak <psonek2@seznam.cz> 
-
-License:
-
-    GPL-2+
-
-The Debian packaging is:
-
-    Copyright (C) 2011 Radek Polak <psonek2@seznam.cz>
-
-and is licensed under the GPL version 2,
-see "/usr/share/common-licenses/GPL-2".
+License: GPL-2.0+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
