@@ -1673,7 +1673,7 @@ if ( opt("device") ) {
         my $device_config_path = opt("device", "config_path");
         my $default_device_path = opt("device", "default_path");
         my $device_bin = opt("device", "device_bin");
-        DEBUG and print "-device used... rerunning configure:\n$command_line\n";
+        opt("verbose") and print "-device used... rerunning configure:\n$command_line\n";
 
 # NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE
 #
