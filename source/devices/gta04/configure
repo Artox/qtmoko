@@ -1,4 +1,3 @@
--xplatform linux-neo-g++ 
 -arch arm 
 -prefix /opt/qtmoko
 
