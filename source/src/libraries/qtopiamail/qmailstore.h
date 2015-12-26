@@ -162,8 +162,10 @@ signals:
     void messageRemovalRecordsAdded(const QMailAccountIdList& ids);
     void messageRemovalRecordsRemoved(const QMailAccountIdList& ids);
 
-private:
+public:
+    // was private, but required public by qmailstore.cpp
     enum AttemptResult { Success = 0, Failure, DatabaseFailure };
+private:
     
     QMailStore();
 
