@@ -32,7 +32,7 @@ override_dh_auto_configure:
 				LD_LIBRARY_PATH=/opt/qt-embedded/lib:$$LD_LIBRARY_PATH \
 				PKG_CONFIG_PATH=/opt/qt-embedded/lib/pkgconfig:$$PKG_CONFIG_PATH \
 				../source/configure \
-				-platform linux-native-g++ \
+				-platform linux-g++ \
 				-xplatform linux-native-g++ \
 				-prefix /opt/qtmoko \
 				-system-qt \
