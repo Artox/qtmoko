@@ -3201,7 +3201,7 @@ if ( opt("qtopia_ui") && (!opt("skip_qte") || opt("qbuild")) ) {
         # Make sure qconfig-[device].h is there
         symlink_file(opt("device", "config_path")."/qconfig.h", "$qt_depot_path/src/corelib/global/qconfig-".opt("device").".h");
     }
-    if ( !opt("qbuild") )  {
+    if ( !opt("skip_qte") )  {
         my $oldpath = $ENV{PATH};
         $ENV{PATH} = "$QPEDIR/src/build/bin/pkgconfig:".$ENV{PATH};
         configure_qt($QTEDIR, "Qt Embedded (target)", "qte_config");
