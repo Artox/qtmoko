@@ -39,3 +39,10 @@ override_dh_auto_configure:
 				-device gta04 \
 				-remove-module pkgmanagement \
 				-verbose
+
+override_dh_auto_build:
+	env \
+		PATH=/opt/qt-embedded/bin:$$PATH \
+		LD_LIBRARY_PATH=/opt/qt-embedded/lib:$$LD_LIBRARY_PATH \
+		PKG_CONFIG_PATH=/opt/qt-embedded/lib/pkgconfig:$$PKG_CONFIG_PATH \
+		dh_auto_build
